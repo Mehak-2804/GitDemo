@@ -1,0 +1,3 @@
+23:34:07.114 [main] INFO  EndToEndTestCases.Validation - browser is opened
+23:34:11.065 [main] INFO  EndToEndTestCases.Validation - Rediff website is accessible
+23:34:11.162 [main] INFO  EndToEndTestCases.Validation - text is successfully retrieved
