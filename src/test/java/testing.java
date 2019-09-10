@@ -8,6 +8,9 @@ public class testing {
 	{
 		System.out.println("Github");
 		System.out.println("GitDemo");
+		
+		System.out.println("git");
+		System.out.println("demo");
 	}
 	
 }
