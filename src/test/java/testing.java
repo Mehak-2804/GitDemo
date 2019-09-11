@@ -26,6 +26,7 @@ public class testing {
 	public void max()
 	{
 		System.out.println("Max");
+		System.out.println("No Max");
 	}
 	
 }
