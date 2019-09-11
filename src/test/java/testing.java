@@ -13,4 +13,19 @@ public class testing {
 		System.out.println("demo");
 	}
 	
+	@Test
+	
+	public void Android()
+	{
+		System.out.println("12345");
+		System.out.println("abcde");
+	}
+	
+	@Test
+	
+	public void max()
+	{
+		System.out.println("Max");
+	}
+	
 }
