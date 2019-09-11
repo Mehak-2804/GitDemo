@@ -29,4 +29,10 @@ public class testing {
 		System.out.println("No Max");
 	}
 	
+	@Test
+	public void min()
+	{
+		System.out.println("min");
+	}
+	
 }
